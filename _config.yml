@@ -24,6 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   [Theme Tester Sample 1, Insert Description here]
 baseurl: "/theme-tester" # the subpath of your site, e.g. /blog
 url: "https://digracesion.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+markdown: kramdown
+highlighter: rouge
+encoding: UTF-8
 github_username:  digracesion
 instagram_username: gray__in__film
 
